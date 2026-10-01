@@ -1,2 +1,22 @@
 CLAUDE.md
 .claude/
+
+# --- standard (added 2026-09-30) ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+config.env
+google-*.json

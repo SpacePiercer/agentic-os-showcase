@@ -1,0 +1,4 @@
+# No pip packages: the Python scripts (jobs/weekly-reflect, jobs/agent-vancouver-tech-event-radar)
+# use only the standard library, Python 3.10+.
+# Runtime tools instead: Windows PowerShell 5.1, Claude Code CLI (headless `claude -p`),
+# Ollama (local model for the morning digest's private lane), bash + cron on the VPS.
