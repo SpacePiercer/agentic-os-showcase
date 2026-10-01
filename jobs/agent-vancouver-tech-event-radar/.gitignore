@@ -1,0 +1,13 @@
+# Secrets — never commit
+config.env
+
+# Run artifacts and state
+out/
+runs/
+reports/
+state/
+
+# Editor noise
+*.swp
+*.tmp
+.DS_Store
