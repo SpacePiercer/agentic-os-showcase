@@ -20,3 +20,7 @@ Thumbs.db
 desktop.ini
 config.env
 google-*.json
+
+# session progress logs and roadmap, kept local
+progress/
+docs/ROADMAP.md
